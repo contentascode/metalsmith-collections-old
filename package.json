@@ -6,7 +6,7 @@
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
-    "debug": "~0.7.4",
+    "debug": "~0.8.1",
     "extend": "~1.2.1",
     "minimatch": "^0.2.14",
     "multimatch": "^2.1.0",
